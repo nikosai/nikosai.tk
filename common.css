@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 源真ゴシックP Regular;
+    src: url(GenShinGothic-P-Regular.ttf);
+}
+
+* {
+    font-family: 源真ゴシックP Regular;
+}
+
+body{
+    background: url("back.png");
+}
