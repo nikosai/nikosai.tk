@@ -1,14 +1,18 @@
 @font-face {
-    font-family: æºçœŸã‚´ã‚·ãƒƒã‚¯P Regular;
+    font-family: æºçœŸã‚´ã‚·ãƒ?ã‚¯P Regular;
     src: url(GenShinGothic-P-Regular.ttf);
 }
 
 * {
-    font-family: æºçœŸã‚´ã‚·ãƒƒã‚¯P Regular;
+    font-family: æºçœŸã‚´ã‚·ãƒ?ã‚¯P Regular;
 }
 
 body{
-    background: url("back.png");
+    background-image: url("back.png");
+    background-repeat: no-repeat;            /* ”wŒi‚ğŒJ‚è•Ô‚³‚È‚¢ */
+    background-position: 50% 50%;            /* ”wŒi‰æ‘œ‚ÌˆÊ’u‚Í‰æ–Ê’†‰› */
+    background-attachment:fixed;             /* ”wŒi‰æ‘œ‚ğŒÅ’è‚·‚é */
+    background-size:cover;
 }
 
 #backbox{
