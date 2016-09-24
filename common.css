@@ -1,17 +1,17 @@
 @font-face {
-    font-family: æºçœŸã‚´ã‚·ãƒ?ã‚¯P Regular;
+    font-family: Genshin;
     src: url(GenShinGothic-P-Regular.ttf);
 }
 
 * {
-    font-family: æºçœŸã‚´ã‚·ãƒ?ã‚¯P Regular;
+    font-family: Genshin;
 }
 
 body{
     background-image: url("back.png");
-    background-repeat: no-repeat;            /* ”wŒi‚ğŒJ‚è•Ô‚³‚È‚¢ */
-    background-position: 50% 50%;            /* ”wŒi‰æ‘œ‚ÌˆÊ’u‚Í‰æ–Ê’†‰› */
-    background-attachment:fixed;             /* ”wŒi‰æ‘œ‚ğŒÅ’è‚·‚é */
+    background-repeat: no-repeat;            /* ï¿½wï¿½iï¿½ï¿½ï¿½Jï¿½ï¿½ï¿½Ô‚ï¿½ï¿½È‚ï¿½ */
+    background-position: 50% 50%;            /* ï¿½wï¿½iï¿½æ‘œï¿½ÌˆÊ’uï¿½Í‰ï¿½ï¿½Ê’ï¿½ï¿½ï¿½ */
+    background-attachment:fixed;             /* ï¿½wï¿½iï¿½æ‘œï¿½ï¿½ï¿½Å’è‚·ï¿½ï¿½ */
     background-size:cover;
 }
 
